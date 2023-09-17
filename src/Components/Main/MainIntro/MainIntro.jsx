@@ -5,7 +5,7 @@ const MainIntro = () => {
       <div className="card card-compact w-full bg-[#171616] shadow-xl">
           <div className='w-full flex flex-col justify-around items-center lg:flex-row'>
               <figure>
-                  <img src="/public/assets/images/me.png" alt="Shoes" className='bg-[#5f5f5f] h-[350px] m-10 rounded-tl-[50px] rounded-br-[50px]' />
+                  <img src="assets/images/me.png" alt="Shoes" className='bg-[#5f5f5f] h-[350px] m-10 rounded-tl-[50px] rounded-br-[50px]' />
               </figure>
               <div className='w-1/2 space-y-4'>
                   <p className='text-2xl text-[#5f5f5f] font-bold'>I am Web Developer</p>

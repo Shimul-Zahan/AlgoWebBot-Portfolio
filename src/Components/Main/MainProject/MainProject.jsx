@@ -9,7 +9,7 @@ const MainProject = () => {
 
             <div className='w-1/2 h-[320px] bg-[#171717] rounded-2xl p-4'>
                 <div className="space-y-10">
-                    <img src="/public/assets/images/bg1.png" alt="Sign" className='h-[150px] w-full' />
+                    <img src="assets/images/bg1.png" alt="Sign" className='h-[150px] w-full' />
                     <div className='flex justify-between items-center'>
                         <div className="">
                             <h4 className='text-lg'>More about me</h4>
