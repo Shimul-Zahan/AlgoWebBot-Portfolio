@@ -45,7 +45,7 @@ const About = () => {
             </div>
             <div>
                 <div className='flex justify-between items-center mb-10'>
-                    <Card image="../../public/assets/images/gfonts.png" />
+                    <Card image="assets/images/gfonts.png" />
 
                     <div className='w-1/2 h-[320px] bg-[#171717] rounded-2xl p-4'>
                         <div className="space-y-10">
@@ -59,7 +59,7 @@ const About = () => {
                             </div>
                         </div>
                     </div>
-                    <Card image="../../public/assets/images/gfonts.png" />
+                    <Card image="assets/images/gfonts.png" />
                 </div>
             </div>
 
