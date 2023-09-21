@@ -5,6 +5,7 @@ import {
 import Home from '../Home/Home';
 import About from '../AboutPage/About';
 import Contact from '../ContactPage/Contact'
+import Work from '../WorkPage/Work'
 import HomeStructure from '../HomeStructure/HomeStructure';
 
 const myRouter = createBrowserRouter([
@@ -19,6 +20,10 @@ const myRouter = createBrowserRouter([
             {
                 path: '/about',
                 element: <About />
+            },
+            {
+                path: '/work',
+                element: <Work />
             },
             {
                 path: '/contact',
