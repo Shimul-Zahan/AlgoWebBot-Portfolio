@@ -1,6 +1,6 @@
 import React from 'react'
-import Card from '../../../Utils/BasicCard/Card'
-import blogIamge from '../../../../public/assets/images/gfonts.png'
+import blogIamge from '../../public/assets/images/gfonts.png'
+import Card from '../Utils/SmallCard/Card'
 
 const MainProject = () => {
     return (
