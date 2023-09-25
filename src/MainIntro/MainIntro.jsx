@@ -2,7 +2,7 @@ import React from 'react'
 
 const MainIntro = () => {
   return (
-      <div className="card card-compact w-full bg-[#171616] shadow-xl">
+      <div className="card card-compact w-full bg-[#171616] shadow-xl rounded-[50px]">
           <div className='w-full flex flex-col justify-around items-center lg:flex-row'>
               <figure>
                   <img src="assets/images/me.png" alt="Shoes" className='bg-[#5f5f5f] h-[350px] m-10 rounded-tl-[50px] rounded-br-[50px]' />

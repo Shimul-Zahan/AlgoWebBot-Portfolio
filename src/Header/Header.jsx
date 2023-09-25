@@ -7,7 +7,7 @@ const Header = () => {
         <div className="navbar text-[4f4949] py-8 mb-20">
             <div className="navbar-start">
                 <Link to='/'>
-                    <h1 className='text-4xl font-bold'>Al<span className='text-yellow-500'>go</span>We<span className='text-yellow-500'>bB</span>ot</h1>
+                    <h1 className='text-4xl text-white font-bold'>Al<span className='text-yellow-500'>go</span>We<span className='text-yellow-500'>bB</span>ot</h1>
                 </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
@@ -19,7 +19,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <Link to='/contact' className="btn bg-[#5f5f5f] text-xl font-bold capitalize">Let's Talk</Link>
+                <Link to='/contact' className="btn bg-yellow-500 text-[#5f5f5f] text-xl font-bold capitalize">Let's Talk</Link>
             </div>
         </div>
     )

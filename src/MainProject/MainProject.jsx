@@ -7,7 +7,7 @@ const MainProject = () => {
         <div className='flex justify-between items-center mb-10'>
             <Card image={blogIamge} />
 
-            <div className='w-1/2 h-[320px] bg-[#171717] rounded-2xl p-4'>
+            <div className='w-1/2 h-[320px] bg-[#171717] rounded-[50px] px-10 py-8'>
                 <div className="space-y-10">
                     <img src="assets/images/bg1.png" alt="Sign" className='h-[150px] w-full' />
                     <div className='flex justify-between items-center'>
